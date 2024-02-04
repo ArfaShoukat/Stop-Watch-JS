@@ -1,0 +1,44 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.main-div{
+ 
+ /* width: 100%; */
+    background-color: rgb(10, 10, 10);
+    /* box-shadow: 5px 5px 5px 5px rgb(71, 71, 74); */
+  
+
+}
+.main-head{
+    color: rgb(0, 0, 0) !important;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.sec-head{
+    word-spacing: 60px;
+    color: rgb(185, 179, 179);
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.second-div{
+    display: flex;
+  
+    justify-content: center;
+}
+h1{
+   color: white !important;
+    margin:10px 35px !important;
+display: inline-block ;
+
+}
+.btn-div{
+display: flex; 
+justify-content: center;
+/* margin-top:-90px !important ;  */
+}
+button{
+margin:0px 20px !important;
+
+}
